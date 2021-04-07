@@ -76,7 +76,7 @@ You can also see Map of your Tour and It will display some model to travel that 
   - we can see all the document and we also edit those document in this tool.
   
 - Atlas:
-  - It is used to strore our Data in the Cloud.
+  - It is used to store our Data in the Cloud.
 
 ##  Other Modules Used:
 
